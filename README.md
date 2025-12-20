@@ -104,7 +104,7 @@ phpMyAdmin에서 데이터베이스 project01\_db 생성
 
 브라우저에서 아래 주소로 접속
 
-http://localhost/project/login.php-> 시작화면
+login.php-> 시작화면
 
 회원가입 후 로그인하여 기능 확인
 
@@ -139,6 +139,7 @@ items 테이블: 물품 정보 저장
 
 
 \+비밀번호 암호화하는 파일 : make\_hash.php
+
 
 
 
